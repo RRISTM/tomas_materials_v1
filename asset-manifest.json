@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/tomas_materials_v1/static/css/main.9f588f0a.chunk.css",
+    "main.js": "/tomas_materials_v1/static/js/main.89f659f0.chunk.js",
+    "main.js.map": "/tomas_materials_v1/static/js/main.89f659f0.chunk.js.map",
+    "runtime-main.js": "/tomas_materials_v1/static/js/runtime-main.52083524.js",
+    "runtime-main.js.map": "/tomas_materials_v1/static/js/runtime-main.52083524.js.map",
+    "static/css/2.a48c9fc4.chunk.css": "/tomas_materials_v1/static/css/2.a48c9fc4.chunk.css",
+    "static/js/2.0b24386a.chunk.js": "/tomas_materials_v1/static/js/2.0b24386a.chunk.js",
+    "static/js/2.0b24386a.chunk.js.map": "/tomas_materials_v1/static/js/2.0b24386a.chunk.js.map",
+    "index.html": "/tomas_materials_v1/index.html",
+    "static/css/2.a48c9fc4.chunk.css.map": "/tomas_materials_v1/static/css/2.a48c9fc4.chunk.css.map",
+    "static/css/main.9f588f0a.chunk.css.map": "/tomas_materials_v1/static/css/main.9f588f0a.chunk.css.map",
+    "static/js/2.0b24386a.chunk.js.LICENSE.txt": "/tomas_materials_v1/static/js/2.0b24386a.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/tomas_materials_v1/static/media/roboto-latin-900italic.cb5ad999.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.52083524.js",
+    "static/css/2.a48c9fc4.chunk.css",
+    "static/js/2.0b24386a.chunk.js",
+    "static/css/main.9f588f0a.chunk.css",
+    "static/js/main.89f659f0.chunk.js"
+  ]
+}
